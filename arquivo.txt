@@ -1,0 +1,18 @@
+#!bim/bash
+
+
+ #Para ver qual diretorio eu estou usei 
+ pwd
+ cd modulo1
+ nano calculadora.py
+ # Usei o 'll' para ver as permissões 
+ chmod +x calculadora.py
+ ll #para ver se deu  certo
+ nano calculadora1.sh
+ chmod +x calculadora1.sh
+ ll
+ nano arquivo.txt
+ 
+ #fimm
+
+
