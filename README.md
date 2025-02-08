@@ -1,6 +1,5 @@
 
-
-calculado
+calculado.py
 
 def prompt_menu():
     a = float(input("Escolha o primeiro número: "))
